@@ -11,4 +11,4 @@ Resources:
       Timeout: 5
       Environment:
         Variables:
-          SECRET_KEY_TO_CALL_THIS_LAMBDA: "35c760f4-b3dc-4657-b4f3-2c6566d4f42e" # Replace this with your token
+          SECRET: "d68a6170-98da-4c83-bcd6-1155b6908399" # Replace this with your token

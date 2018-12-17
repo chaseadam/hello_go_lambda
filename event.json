@@ -1,4 +1,5 @@
 {
    "param1": "My param value",
-   "token": "35c760f4-b3dc-4657-b4f3-2c6566d4f42e"
+   "token": "d68a6170-98da-4c83-bcd6-1155b6908399",
+   "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDUzMjQ1ODgsImZvbyI6ImJhciJ9.AGrOxmQAB9p7fMkmOqbXKjOe25wDPCwEwFt1_jp894Q"
 }
